@@ -8,3 +8,7 @@
 - Operadores
 - Laços de repetição
 - Estruturas de decisões
+
+**Para visualizar no terminal executar:**
+
+- node ./desafioLogica.js
