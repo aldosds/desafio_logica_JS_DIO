@@ -1,7 +1,7 @@
 const herois = [
 	{nome: 'Gato', xp: 2.002},
     {nome: 'Nego', xp: 7.000},
-    {nome: 'Nego', xp: 10.001}
+    {nome: 'Mago', xp: 10.001}
 ]
 
 console.log("## Classificador de Nível de Herói ##");
