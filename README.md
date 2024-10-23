@@ -9,6 +9,6 @@
 - Laços de repetição
 - Estruturas de decisões
 
-**Para visualizar no terminal executar:**
+**Caso clone ou efetue download do desafio, visualize o resultado no terminal executando:**
 
 - node ./desafioLogica.js
