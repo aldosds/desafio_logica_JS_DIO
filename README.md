@@ -1,2 +1,10 @@
-# desafio_logica_JS_DIO
-Desafio de Lógica com Javascript na DIO
+# Desafio de Lógica com Javascript na DIO
+
+# 1️⃣ Classificador de nível de Herói
+
+**O Que foi utilizado**
+
+- Variáveis
+- Operadores
+- Laços de repetição
+- Estruturas de decisões
